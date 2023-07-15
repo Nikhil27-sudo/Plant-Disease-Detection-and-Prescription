@@ -42,11 +42,34 @@ Our solution architecture consists of the integration of the following IBM Watso
 
 <p> 
   <img src="https://github.com/Nikhil27-sudo/Plant-Disease-Detection-and-Prescription/blob/master/Results3.png" width="400" height="600" align="left">
-  <img src="https://github.com/Nikhil27-sudo/Plant-Disease-Detection-and-Prescription/blob/master/Results4.png" width="380" height="550" align="right">
-</p>
+  <img src="https://github.com/Nikhil27-sudo/Plant-Disease-Detection-and-Prescription/blob/master/Results4.png" width="380" height="550" align="right"> <br>
+</p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 ## Results
 
 The test accuracy achieved is an impressive 98.26%.
-
-
