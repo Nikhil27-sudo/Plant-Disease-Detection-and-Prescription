@@ -1,7 +1,5 @@
 # Plant-Disease-Detection-and-Prescription 
 
-### This project is submitted for Deloitte's TechnoUtsav 3.0 TechE.
-
 This whole project is implemented in IBM Cloud. Developed a Telegram bot that can predict
 the disease from images of damaged plant leaves using Watson Visual Recognition. The bot will
 then successfully explain the treatments to the user using Watson Assistant. The bot also uses the
@@ -72,4 +70,4 @@ Our solution architecture consists of the integration of the following IBM Watso
 
 ## Results
 
-The test accuracy achieved is an impressive 98.26%.
+The model demonstrated an accuracy of 98.26% in predicting plant diseases.
