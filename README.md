@@ -19,7 +19,6 @@ This solution offers fast processing and accurate disease classification by anal
   <img src="https://github.com/Nikhil27-sudo/Plant-Disease-Detection-and-Prescription/blob/master/Technical%20Architecture.png" width="600" height="400">
 </p>
 
-
 Our solution architecture consists of the integration of the following IBM Watson services and TELEGRAM with NODE RED,
 - Visual Recognition Service
 - Watson Assistant Service
@@ -46,6 +45,8 @@ Our solution architecture consists of the integration of the following IBM Watso
   <img src="https://github.com/Nikhil27-sudo/Plant-Disease-Detection-and-Prescription/blob/master/Results4.png" width="380" height="550" align="right">
 </p>
 
+## Results
 
+The test accuracy achieved is an impressive 98.26%.
 
 
